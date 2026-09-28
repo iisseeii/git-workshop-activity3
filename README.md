@@ -1,6 +1,6 @@
 # Git Workshop
 
-- **Name:** Your Full Name
+- **Name:** Samantha Christine F. Regalado
 - **Project Title:** Basic HTML Webpage
 - **Brief Description:** A simple HTML project created to demonstrate version control using Git.
 
